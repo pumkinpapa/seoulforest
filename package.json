@@ -1,2 +1,4 @@
-node_modules/
-.vercel/
+{
+  "name": "fc-club-frontend",
+  "version": "1.0.0"
+}
